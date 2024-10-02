@@ -1,0 +1,51 @@
+.alterCell, .alterCell2 {
+	background-color: #fff !important;
+	border-bottom: #fff solid 1px !important;
+}
+
+.alterCell:hover, .alterCell2:hover {
+	background-color: #fff !important;
+}
+#dataList > .alterCell{
+	text-align: right;
+}
+
+.form-control{
+display:inline-block !important;
+}
+
+.dataListHeader{
+background-color: #e7e7e7 !important;
+}
+
+.chzn-container, .chzn-drop, .chzn-search > .form-control{
+	width: 100% !important;
+}
+
+.chzn-default, .chzn-single {
+	height: 34px !important;
+	border-radius: 0 !important;
+	padding-left: 10px !important;
+	padding-top: 4px !important;
+	background: url('chosen-sprite.png') no-repeat -2px 6px;
+}
+
+#cboxOverlay{
+	background: #000 !important;
+}
+#cboxMiddleLeft, #cboxMiddleRight,#cboxTopCenter, #cboxTopLeft, #cboxTopRight, #cboxBottomLeft, #cboxBottomRight, #cboxBottomCenter{
+	background:none !important;
+}
+.cboxIframe{
+	padding: 10px !important;
+}
+
+.form-control{
+	border-radius: 0px;
+}
+.datagrid-action-bar{
+margin-bottom: 15px !important;
+}
+.makeHidden {
+	display: none !important;
+}

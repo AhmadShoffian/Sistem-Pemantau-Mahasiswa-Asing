@@ -1,0 +1,9 @@
+[28-Aug-2019 00:50:53 Asia/Jakarta] PHP Notice:  Undefined index: userType in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 98
+[28-Aug-2019 00:50:53 Asia/Jakarta] PHP Notice:  Undefined index: social in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 101
+[28-Aug-2019 00:50:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 101
+[28-Aug-2019 12:04:03 Asia/Jakarta] PHP Notice:  Undefined index: userType in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 98
+[28-Aug-2019 12:04:03 Asia/Jakarta] PHP Notice:  Undefined index: social in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 101
+[28-Aug-2019 12:04:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 101
+[28-Aug-2019 22:42:54 Asia/Jakarta] PHP Notice:  Undefined index: userType in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 98
+[28-Aug-2019 22:42:54 Asia/Jakarta] PHP Notice:  Undefined index: social in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 101
+[28-Aug-2019 22:42:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/isi/public_html/sikerma/admin/modules/system/app_user.php on line 101
